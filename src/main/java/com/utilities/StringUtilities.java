@@ -23,7 +23,9 @@ import org.slf4j.LoggerFactory;
 public class StringUtilities {
 	/**
 	 * The string separator for splitting a string into a list
+	 * 
 	 */
+	public String language = "JAVA";
 	private final static String COMMA_SEPARATOR = ","; 
 	/**
 	 * The String separator for splitting a parameter value. 
