@@ -1,4 +1,4 @@
-package com.edurekademo.utilities;
+package com.test.utilities;
 
 public class UnitDTO {
 
