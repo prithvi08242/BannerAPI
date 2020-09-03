@@ -25,7 +25,7 @@ public class StringUtilities {
 	 * The string separator for splitting a string into a list
 	 * 
 	 */
-	public String language = "Java";
+	public String language = "Java"
 	private final static String COMMA_SEPARATOR = ","; 
 	/**
 	 * The String separator for splitting a parameter value. 
